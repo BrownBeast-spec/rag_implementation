@@ -2,7 +2,7 @@
 
  ## Setting up milvus in docker
   - Check if docker is downloaded, if not use `sudo snap install docker`
-  - Create a dir{milvus-docker-setup} - `mkdir milvus-docker-setup`, then `milvus-docker-setup`
+  - Create a dir{milvus-docker-setup} - `mkdir milvus-docker-setup`, then `cd milvus-docker-setup`
   - Create a Docker compose conf file for setting up milvus instance - `nvim docker-compose.yml`
   - Continuing the above -> etcd:
                                 - Uses the coreos etcd image
