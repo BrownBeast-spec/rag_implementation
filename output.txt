@@ -1,0 +1,50 @@
+harsh vardhan singh chauhan
+919953944291  mediumcomharshtherocking  linkedincominharshvschauhan  httpsgithubcomharshtherocking
+experience
+data miner dec 2023  jan 2024
+scimertech remote
+ web scrapping of data from nist webbook improving the traditional data collection process by 85
+ spectroscopic data analysis of transmittance and absorbance of food sample for extraction and identification of
+chemical compounds and functional groups
+ noise reduction and smoothing algorithms used to preprocess spectral data to enhance the spectra quality
+improving accuracy upto 79 1d convolution  random forest algorithms used for feature extraction and
+improving the improving the precision of spectroscopic analysis
+data science intern july 2023  aug 2023
+oasis infobyte remote
+ prediction model optimization for car price regression models and spam email classification along with
+unemployment analysis using principal component analysis  feature extraction
+ gui implementation for enhancing user consuming experience and seamless interaction with the software
+projects
+pytorch chatbot  open source contribution sept 2024  present
+ constructed a vector database on milvus to store and retrieve semantic embeddings of textual chunks
+ implementing retrieval augmented generation rag using llama index to enhance model performance
+by dynamically retrieving and incorporating relevant information from website knowledge bases
+ employing advanced semantic retrieval techniques to extract relevant information from vector database
+ optimizing language model prompts and weights and monitoring with dspy
+graphical sentimental analysis may 2024  present
+ developed graph based model to train edge embedding representing syntactic dependencies in sentences
+ implemented message passing using graph convolution network in pytorch geometric to utilise words
+node embedding and dependencies edge embedding
+ leveraging the parallel computation capabilities of transformerbased networks for efficient training
+iirs spectral classification of lunar surface  bhartiya antariksh hackathon isro july 2024  aug 2024
+ utilized matlab to visualize and analyze iirs hyperspectral image enabling lunar geological analysis
+ wavelet transformation for noise reduction to enhance the quality and interpretability of hyperspectral data
+ developed spectral classification models using knn and gaussian clustering attaining 82 accuracy with
+successful gui implementation via matlab app designer
+vue  video streaming platform oct 2023  nov 2023
+ anime streaming platform with dynamic frontend login system hosting room and comment features
+ employed torch vision for preprocessing of profile pictures and utilized opencv for face detection and
+background removal algorithms to isolate and refine facial features
+ utilising profile image to deliver custom cartoon face using hugging face pretrained model
+technical skills
+languages python cc sql java javascript html css php latex bash markdown
+frameworks fastapi pytorch tensorflow pygeometric huggingface langchain llamaindex streamlit
+developer tools git docker mongodb mlflow matlab envi imagej
+libraries pandas numpy matplotlib keras scipy nltk seaborn opencv scikitlearn spacy networkx
+beautifulsoup scrapy opennlp graph4nlp fasttext transformer accelerate peft milvus dspy
+achievement
+bhartiya antariksh hackathon isro nrsc hyderabad india
+1st runnerup  iirs spectral image classification for the lunar surface using aiml aug 2024
+education
+indian institute of information technology kottayam kerala india
+btech computer science artificial intelligence and data science  83 cgpa nov 2022  present
