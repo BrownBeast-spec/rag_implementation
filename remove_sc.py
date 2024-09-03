@@ -18,7 +18,7 @@ def text_extractor(pdf_path, output_path):
     with open(output_path, 'w', encoding='utf-8') as file:
         file.write(cleaned_text.lower() + "\n\nMetadata:\n" + metadata_str)
     
-    print(f"Output written to {output_path}")
+    print(f"text:{output_path}")
 
 if __name__ == "__main__":
     pdf_path = 'C:/Users/SURAJ/Documents/Project/RAG/Resume.pdf'
