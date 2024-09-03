@@ -16,7 +16,7 @@ def text_extractor(pdf_path, output_path):
     metadata_str = "\n".join(f"{key}: {value}" for key, value in metadata.items())
     
     with open(output_path, 'w', encoding='utf-8') as file:
-        file.write(cleaned_text.lower() + "\n\nMetadata:\n" + metadata_str)
+        file.write("Text: "+cleaned_text.lower()" + "\n\nMetadata:\n" + metadata_str)
     
     print(f"text:{output_path}")
 
