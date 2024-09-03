@@ -48,3 +48,15 @@ bhartiya antariksh hackathon isro nrsc hyderabad india
 education
 indian institute of information technology kottayam kerala india
 btech computer science artificial intelligence and data science  83 cgpa nov 2022  present
+
+Metadata:
+Author: 
+CreationDate: D:20240826173936Z
+Creator: LaTeX with hyperref
+Keywords: 
+ModDate: D:20240826173936Z
+PTEX.Fullbanner: This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) kpathsea version 6.3.5
+Producer: pdfTeX-1.40.25
+Subject: 
+Title: 
+Trapped: False
